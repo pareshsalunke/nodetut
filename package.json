@@ -1,0 +1,14 @@
+{
+  "name": "npmtut",
+  "version": "3.7.3",
+  "description": "An example to create npm package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Paresh Salunke",
+  "license": "MIT"
+}
